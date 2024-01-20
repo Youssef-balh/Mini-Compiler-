@@ -1,10 +1,10 @@
-# Moroccan Proverbs Compilation Project
+# Moroccan Proverbs Compilation 
 
-## Project Overview
+## Overview
 
 This project aims to compile a collection of Moroccan proverbs along with their contexts and translations in French and English. Additionally, a chatbot is implemented to correct users when entering proverbs and provide feedback on lexical, syntactic, and semantic errors.
 
-### Project Structure
+### Structure
 
 #### Proverbs and Contexts
 
